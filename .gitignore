@@ -16,5 +16,3 @@ thirdparty/install/**
 # Data
 navigation_data/**
 
-#folder
-unitree_ros_to_real/
